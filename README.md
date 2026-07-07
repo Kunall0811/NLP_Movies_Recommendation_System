@@ -75,12 +75,12 @@ Example:
 
 ```
 Overview
-+
-Genres
-+
+   +
+ Genres
+   +
 Tagline
-↓
-Tags
+   ↓
+  Tags
 ```
 
 ---
