@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System using NLP & TF-IDF
+# 🎬 Movie Recommendation System using NLP
 
 ### 📌 Overview
 
